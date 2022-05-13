@@ -4,3 +4,7 @@ ML and AI sports betting
 
 
 Aim – Create a multi league AI betting model
+
+
+
+data = https://fixturedownload.com/results/epl-2021
